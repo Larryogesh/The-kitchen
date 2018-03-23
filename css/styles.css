@@ -1,0 +1,29 @@
+.headings {
+  background-image: url(../img/assets/backgrounds/landing.jpg)
+}
+
+.logo {
+  padding-left: 40%;
+  padding-top: 10%
+}
+
+.head {
+  text-align: center;
+  font-family: IBM+Plex+Serif;
+  padding-left: 5%;
+  color: white
+}
+
+.row-one {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.row-two {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+#menu {
+  background-image: url(../img/assets/backgrounds/foodsBg.jpg);
+}
