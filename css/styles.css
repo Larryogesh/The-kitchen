@@ -27,3 +27,46 @@
 #menu {
   background-image: url(../img/assets/backgrounds/foodsBg.jpg);
 }
+
+.happy {
+  height: 100px;
+  margin: 0px;
+  padding: 30px;
+  font-size: 25px;
+  color: #dcd6d6
+}
+
+.party {
+  padding: 50px;
+  padding-top: 50px;
+  text-align: center;
+  color: black;
+  font-size: 25%;
+  border-color: pink;
+  width: 100%;
+  height: 15%;
+  padding-bottom: 50px;
+}
+
+nav nav-tabs {
+  width: 100em;
+  height: 25px;
+  margin: auto;
+}
+
+.serro {
+  background-image: url(../img/assets/backgrounds/foodsBg.jpg);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.row-three {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.legit {
+  background-image: url(../img/assets/backgrounds/subscribe.jpg);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
